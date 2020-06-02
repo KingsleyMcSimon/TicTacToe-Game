@@ -10,7 +10,7 @@ This project shows the popular TicTacToe Game built using HTML5, CSS3 and JavaSc
 HTML5, CSS3 and JavaScript
 
 # Live Demo Link
-[TicTacToe Game](kingsleymcsimon/github.io/TicTacToe-Game/)
+[TicTacToe Game](https://kingsleymcsimon.github.io/TicTacToe-Game/)
 
 # Link To The Project on Github
 [Project](https://github.com/KingsleyMcSimon/TicTacToe-Game)
